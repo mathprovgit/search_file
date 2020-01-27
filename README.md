@@ -1,2 +1,2 @@
 # search_file
-look for file containing certain characters 
+look up for file containing certain characters in your Computer 
